@@ -1,6 +1,5 @@
 ## Complete Website Downloader 💾
-Download the complete source code of any website (including all assets) 🔨.
-
+This code is updated by Sakibin to download all assets.
 
 ![enter image description here](https://github.com/AhmadIbrahiim/Website-downloader/blob/master/public/Record.gif?raw=true)
 <div align="center">
